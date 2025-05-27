@@ -1,8 +1,6 @@
 import psycopg2
 from psycopg2 import sql
 
-
-
 # 数据库连接参数
 db_params = {
     'dbname': 'postgres',
